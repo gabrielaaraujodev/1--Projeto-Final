@@ -19,10 +19,6 @@ Evento exclusivo e pago, promovido pela Rocketseat para ensino de tecnologias WE
 
 <br>
 
-<p align="center">
-  <img alt="Projeto Explorer" src="https://github.com/gabrielaaraujodev/1-Projeto/blob/main/index.html" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
