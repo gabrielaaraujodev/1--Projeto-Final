@@ -167,6 +167,7 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: baseline;
+    position: relative;
   }
 
   header h1 {
@@ -191,6 +192,8 @@ footer {
 
   button img {
     width: 3rem;
+    position: absolute;
+    top: 90%;
   }
 
   #main-standart {
@@ -234,19 +237,6 @@ footer {
     flex: 1;
     width: 50%;
     background-repeat: no-repeat;
-
-  }
-
- /*  #stars {
-    background: url(/assets/Stars.png);
-    height: 70%;
-    width: 50%;
-    background-repeat: no-repeat;
     background-position: right;
-    display: flex;
-    margin: 0 auto;
-    position: absolute;
-    right: 0;
   }
-*/
 }
